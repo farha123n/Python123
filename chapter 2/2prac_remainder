@@ -1,0 +1,4 @@
+a=15
+b=14
+print(a%2)
+print(b%2)

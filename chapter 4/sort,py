@@ -1,0 +1,10 @@
+li=[1,6,46,4,7,4]
+print(li)
+li.sort()#sort the list
+print(li)
+li.reverse()#reverse the list
+print(li)
+li.append(12)# adds at the end of the list
+print(li)
+li.insert(2,544)# add 56 at index 2
+print(li)
